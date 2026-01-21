@@ -1,21 +1,3 @@
-[submodule "operating-system-macos"]
-	path = operating-system-macos
-	url = ../operating-system-macos
-[submodule "tool-macos"]
-	path = tool-macos
-	url = ../tool-macos
-[submodule "operating-system-posix"]
-	path = operating-system-posix
-	url = ../operating-system-posix
-[submodule "operating-system-apple"]
-	path = operating-system-apple
-	url = ../operating-system-apple
-[submodule "operating-system-ios"]
-	path = operating-system-ios
-	url = ../operating-system-ios
-[submodule "operating-system-darwin"]
-	path = operating-system-darwin
-	url = ../operating-system-darwin
 [submodule "operating_system-apple"]
 	path = operating_system-apple
 	url = ../operating_system-apple
