@@ -7,3 +7,7 @@
 [submodule "operating_system-posix"]
 	path = operating_system-posix
 	url = ../operating_system-posix
+[submodule "operating_system-apple"]
+	path = operating_system-apple
+	url = ../operating_system-apple
+	branch = main
